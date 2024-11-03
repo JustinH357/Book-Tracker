@@ -5,3 +5,5 @@ A fan of anime, and started collecting light novels (novels of anime) and some m
 
 ## Disclaimer:
 This app is made with the purpose to track my light novels and for educational purposes. It is not created to be able to read light novels by scraping from other hosting sites. This is still a work in progress.
+
+For visual look of the app, please go to the "Clips and Images" folder. Download "clip-3" which is the latest overview of the app.
