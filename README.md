@@ -1,15 +1,16 @@
-# BookTracker
+# Personal Book Tracker Application
 
-## About Me:
-A fan of anime, and started collecting light novels (novels of anime) and some manga. Have about 40 of them at home and wanted to create my own database of my books to display them onto an app. This is also another fun way to improve my coding skills.
+A desktop application designed to manage, categorize, and track a my library collection of light novels and manga. Built using **C#**, **WPF**, and a local **PostgreSQL** database, this application serves as a practical project exploring desktop UI development, database management, and CRUD operations.
 
-## What I use?
-Visual studio WPF framework using C# language. Created a PostgreSQL Database locally on my computer that stores the information of my books. Postgres Database is connected to Visual Studio to be able to make changes directly from the app that communicates with the database.
+---
 
-## Images & Clips
-For visual look of the app, please go to the "Clips and Images" folder. Download "clip-3" which is the latest overview of the app. Click "view raw" and it will prompt you to download.
+## Application Demo
 
-## Disclaimer:
-This app is made with the purpose to track my light novels and for educational purposes. It is not created to be able to read light novels by scraping from other hosting sites. This is still a work in progress.
+https://github.com/user-attachments/assets/72b506b7-fdfa-499f-bc59-709f2b7ce227
+
+For a more visual overview and video demos:
+1. Navigate to the "Clips and images" folder in this repo.
+2. You can select **"View Raw"** to download and watch the clips. Clip-3, my latest overview, is the clip above. 
+
 
 
