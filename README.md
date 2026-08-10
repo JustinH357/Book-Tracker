@@ -8,9 +8,9 @@ A desktop application designed to manage, categorize, and track a my library col
 
 https://github.com/user-attachments/assets/72b506b7-fdfa-499f-bc59-709f2b7ce227
 
-For a more visual overview and video demos:
+For more visual overview and video demos:
 1. Navigate to the "Clips and images" folder in this repo.
-2. You can select **"View Raw"** to download and watch the clips. Clip-3, my latest overview, is the clip above. 
+2. You can select **"View Raw"** to download and watch the clips. The demo above is my latest overview, clip-3.  
 
 
 
